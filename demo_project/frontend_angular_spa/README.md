@@ -1,2 +1,2 @@
-# Shop
- .NET WebApi + Angular + Bootstrap
+npm install
+ng serve
